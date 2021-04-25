@@ -1,4 +1,4 @@
-# Transformer-for-time-series-forecasting-
+# Transformer-for-time-series-forecasting by Pytorch
 This code is a realisations of the transformer model from 
 Wu, N., Green, B., Ben, X., & O'Banion, S. (2020). Deep transformer models for time series forecasting: The influenza prevalence case. arXiv preprint arXiv:2001.08317.
 
